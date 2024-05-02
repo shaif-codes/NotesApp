@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="speakable_text_fab_add">Add Note Button</string>
+    <string name="content_description_delete_note_image">Delete Note Image</string>
+    <string name="hint_edit_text_note_content">Input note content here</string>
+    <string name="save_button_text">SAVE</string>
+    <string name="yes_text">Yes</string>
+    <string name="delete_note_text">Do you want to delete note?</string>
+    <string name="update_button_text">UPDATE</string>
+    <string name="note_title_hint">Input note title here</string>
+</resources>
